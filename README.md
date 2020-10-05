@@ -1,17 +1,17 @@
 # Exploratory Data Analysis of Bank
 Berikut ini merupakan hasil Exploratory Data Analysis oleh Brian Ivan Cusuanto mengenai data nasabah yang pindah dan tidak.
-- Problems:
+## Problems:
   1. Apa alasan nasabah ingin berhenti menabung di bank yang bersangkutan?
   2. Apakah **kepemilikan CC** mempengaruhi pemberhentian rekening?
   3. Apa pengaruh **CreditScore** terhadap pemberhentian rekening?
   3. Apakah **Tenure** mempengaruhi terhadap pemberhentian rekening?
   5. Apakah **NumOfProducts** mempengaruhi terhadap pemberhentian rekening?
 
-- Goals:
+## Goals:
   1. Menilai pelayanan bank dari loyalitas nasabah.
   2. Menemukan alasan nasabah yang keluar ke bank lain.
   
-# Kesimpulan
+## Kesimpulan
 1. Kepemilikan kartu kredit tidak mempengaruhi nasabah berpindah dari bank.
   - Sebanyak 80% nasabah yang memiliki kartu kredit adalah nasabah yang tidak pindah
   - 79% nasabah yang memiliki kartu kredit, tidak meninggalkan bank
@@ -32,7 +32,7 @@ Berikut ini merupakan hasil Exploratory Data Analysis oleh Brian Ivan Cusuanto m
   - sebanyak 83% nasabah yang memiliki 3 produk bank malah pindah
   - dan seluruh nasabah yang memiliki 4 produk bank sudah pasti pindah
   
-# Saran dan Rekomendasi
+## Saran dan Rekomendasi
 1. Pelayanan bank ini sudah baik. Terbukti dari kepemilikan kartu kredit, pinjaman yang diberikan nasabah, usia, dan aktif atau tidaknya nasabah; tidak mempengaruhi nasabah untuk berpindah dari bank ini.
 2. Nasabah yang pindah ke bank lain merupakan nasabah yang memiliki nasabah yang memang credit score-nya rendah, yang berarti memang belum layak diberikan layanan atau fasilitas lebih untuk nasabah. Bagaimana nasabah bisa diberikan layanan yang lebih jika tanggung jawab pinjaman saja masih rendah. Jadi, itu hal yang normal jika nasabah berpindah.
 3. Nasabah yang pindah ke bank lain merupakan nasabah yang memiliki banyak jumlah produk yang ditawari pihak bank. Bisa dikatakan bahwa nasabah tersebut hanya ingin sekedar tahu layanan dan fasilitas yang bank punya, dan kemudian nasabah cenderung meninjau ulang dan membandingkan dengan bank lain, produk bank manakah yang tepat untuknya. Ibarat zaman sekarang, nasabah tersebut hanya sekedar *reviewer* yang tidak serius untuk loyal namun hanya serius untuk mencari tahu keunggulan dan kekurangn dari masing-masing bank.
