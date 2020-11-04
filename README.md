@@ -1,39 +1,39 @@
-# Exploratory Data Analysis of Bank
-Berikut ini merupakan hasil Exploratory Data Analysis oleh Brian Ivan Cusuanto mengenai data nasabah yang pindah dan tidak.
+# Exploratory Data Analysis of the Bank
+The following is the result of Exploratory Data Analysis by Brian Ivan Cusuanto regarding customer data who moved and did not.
 ## Problems:
-  1. Apa alasan nasabah ingin berhenti menabung di bank yang bersangkutan?
-  2. Apakah **kepemilikan CC** mempengaruhi pemberhentian rekening?
-  3. Apa pengaruh **CreditScore** terhadap pemberhentian rekening?
-  3. Apakah **Tenure** mempengaruhi terhadap pemberhentian rekening?
-  5. Apakah **NumOfProducts** mempengaruhi terhadap pemberhentian rekening?
+  1. What is the reason why the customer wants to stop saving at the bank concerned?
+  2. Does ** CC ownership ** affect account termination?
+  3. What effect does ** CreditScore ** have on account termination?
+  3. Does ** Tenure ** affect the account termination?
+  5. Does ** NumOfProducts ** affect account termination?
 
 ## Goals:
-  1. Menilai pelayanan bank dari loyalitas nasabah.
-  2. Menemukan alasan nasabah yang keluar ke bank lain.
+  1. Assessing bank services from customer loyalty.
+  2. Find the reasons why customers leave for other banks.
   
-## Kesimpulan
-1. Kepemilikan kartu kredit tidak mempengaruhi nasabah berpindah dari bank.
-    - Sebanyak 80% nasabah yang memiliki kartu kredit adalah nasabah yang tidak pindah
-    - 79% nasabah yang memiliki kartu kredit, tidak meninggalkan bank
-2. Durasi tenor pinjaman dari bank ke nasabah tidak mempengaruhi nasabah untuk pindah ke bank lain. Baik durasinya dalam bulanan maupun 10 tahun, persentase nasabah yang tidak pindah tetap jauh lebih besar daripada nasabah yang pindah.
-3. Usia nasabah sangat tidak mempengaruhi nasabah berpindah dari bank.
-4. Aktif atau tidaknya seorang nasabah tidak mempengaruhi pindahnya nasabah.
-    - Sebanyak 73% nasabah yang tidak aktif terbukti tidak pindah
-    - Sebanyak 85% nasabah yang aktif pun terbukti tidak pindah
-4. Credit Score mempengaruhi nasabah untuk berpindah ke bank lain
-    - credit score mulai dengan 475 ke bawah (nilai 300an) cenderung berhenti dan pindah dari bank ini
-    - nasabah dengan credit score tinggi (di atas 470) cenderung tidak meninggalkan dan pindah dari bank ini.
-    - hanya nasabah dengan credit score 475 dan 839
-    - nasabah dengan credit score rendah (di bawah 470) memiliki kecenderungan untuk berpindah dari bank ini
-    - Dilansir dari [The Balance](https://www.thebalance.com/side-effects-of-bad-credit-960383) bahwa credit score yang rendah membuat orang tidak memiliki kesempatan untuk mendapatkan fasilitas publik lainnya seperti pinjaman dalam jumlah besar.
-5. Jumlah Produk yang dimiliki oleh nasabah mempengaruhi nasabah untuk pindah.
-    - Nasabah yang hanya memiliki paling banyak 2 produk bank, cenderung tinggal tetap
-    - Malahan nasabah yang memiliki banyak produk cenderung pindah bank
-    - sebanyak 83% nasabah yang memiliki 3 produk bank malah pindah
-    - dan seluruh nasabah yang memiliki 4 produk bank sudah pasti pindah
+## Conclusion
+1. Ownership of credit cards does not affect customers moving from the bank.
+    - As many as 80% of customers who have credit cards are customers who have not moved
+    - 79% of customers who have credit cards, do not leave the bank
+2. The duration of the loan tenor from the bank to the customer does not affect the customer to move to another bank. Whether the duration is in months or 10 years, the percentage of customers who do not move remains much larger than customers who do.
+3. The age of the customer does not affect the customer to move from the bank.
+4. Whether a customer is active or not, it doesn't affect the movement of the customer.
+    - As many as 73% of inactive customers are proven not to have moved
+    - As many as 85% of active customers are proven not to have moved
+4. Credit Score influences customers to move to another bank
+    - Credit scores starting with 475 and below (value 300s) tend to stop and move from this bank
+    - Customers with high credit scores (above 470) tend not to leave and move from this bank.
+    - only customers with credit scores of 475 and 839
+    - Customers with a low credit score (below 470) tend to move from this bank
+    - Reporting from [The Balance] (https://www.thebalance.com/side-effects-of-bad-credit-960383) that a low credit score makes people not have the opportunity to get other public facilities such as large loans.
+5. The number of products owned by the customer affects the customer to move.
+    - Customers who only have at most 2 bank products tend to stay
+    - In fact, customers who have many products tend to move banks
+    - 83% of customers who have 3 bank products have moved
+    - and all customers who have 4 bank products have moved
   
-## Saran dan Rekomendasi
-1. Pelayanan bank ini sudah baik. Terbukti dari kepemilikan kartu kredit, pinjaman yang diberikan nasabah, usia, dan aktif atau tidaknya nasabah; tidak mempengaruhi nasabah untuk berpindah dari bank ini.
-2. Nasabah yang pindah ke bank lain merupakan nasabah yang memiliki nasabah yang memang credit score-nya rendah, yang berarti memang belum layak diberikan layanan atau fasilitas lebih untuk nasabah. Bagaimana nasabah bisa diberikan layanan yang lebih jika tanggung jawab pinjaman saja masih rendah. Jadi, itu hal yang normal jika nasabah berpindah.
-3. Nasabah yang pindah ke bank lain merupakan nasabah yang memiliki banyak jumlah produk yang ditawari pihak bank. Bisa dikatakan bahwa nasabah tersebut hanya ingin sekedar tahu layanan dan fasilitas yang bank punya, dan kemudian nasabah cenderung meninjau ulang dan membandingkan dengan bank lain, produk bank manakah yang tepat untuknya. Ibarat zaman sekarang, nasabah tersebut hanya sekedar *reviewer* yang tidak serius untuk loyal namun hanya serius untuk mencari tahu keunggulan dan kekurangn dari masing-masing bank.
-4. Pihak Bank sudah baik, karena dari keseluruhan faktor nasabah yang pindah ke bank lain tidaklah signifikan dan tidak prinsip seperti tanggung jawab credit yang rendah atau sekedar memiliki produk bank yang banyak variasinya.
+## Recommendations
+1. This bank service is good. Evidenced by the ownership of a credit card, the loan is given by the customer, age, and whether the customer is active or not; does not influence customers to move from this bank.
+2. A customer who has moved to another bank is a customer whose credit score is indeed low, which means that it is not feasible to provide more services or facilities for the customer. How can customers be provided with more service if the loan responsibility is still low? So, it's normal for customers to move.
+3. Customers who move to another bank are customers who have a large number of products offered by the bank. It can be said that the customer just wants to know the services and facilities that the bank has, and then the customer tends to review and compare with other banks, which bank product is right for him. Like today, these customers are just * reviewers * who are not serious about being loyal but only serious about finding out the advantages and disadvantages of each bank.
+4. The bank is good, because of all the factors that customers moving to another bank are not significant and not principles, such as low credit responsibility or simply having various bank products.
