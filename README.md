@@ -2,10 +2,10 @@
 The following is the result of Exploratory Data Analysis by Brian Ivan Cusuanto regarding customer data who moved and did not.
 ## Problems:
   1. What is the reason why the customer wants to stop saving at the bank concerned?
-  2. Does ** CC ownership ** affect account termination?
-  3. What effect does ** CreditScore ** have on account termination?
-  3. Does ** Tenure ** affect the account termination?
-  5. Does ** NumOfProducts ** affect account termination?
+  2. Does **CC ownership** affect account termination?
+  3. What effect does **CreditScore** have on account termination?
+  3. Does **Tenure** affect the account termination?
+  5. Does **NumOfProducts** affect account termination?
 
 ## Goals:
   1. Assessing bank services from customer loyalty.
