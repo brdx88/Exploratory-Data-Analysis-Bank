@@ -1,5 +1,9 @@
 # Exploratory Data Analysis of the Bank
-The following is the result of Exploratory Data Analysis by Brian Ivan Cusuanto regarding customer data who moved and did not.
+
+![a](https://github.com/brdx88/Exploratory-Data-Analysis-Bank/blob/main/images/bank.jpg)
+
+The bank is an institution for us to do economic activities as customers. Many customers decide to quit and move to another bank for their own reasons. Are bank services a factor? Or an attractive promo or program that makes customers loyal?
+
 ## Problems:
   1. What is the reason why the customer wants to stop saving at the bank concerned?
   2. Does **CC ownership** affect account termination?
@@ -11,6 +15,22 @@ The following is the result of Exploratory Data Analysis by Brian Ivan Cusuanto 
   1. Assessing bank services from customer loyalty.
   2. Find the reasons why customers leave for other banks.
   
+  
+## Exploratory Data Analysis
+![a](https://github.com/brdx88/Exploratory-Data-Analysis-Bank/blob/main/images/0.png)
+![a](https://github.com/brdx88/Exploratory-Data-Analysis-Bank/blob/main/images/1.png)
+![a](https://github.com/brdx88/Exploratory-Data-Analysis-Bank/blob/main/images/2.png)
+![a](https://github.com/brdx88/Exploratory-Data-Analysis-Bank/blob/main/images/3.png)
+![a](https://github.com/brdx88/Exploratory-Data-Analysis-Bank/blob/main/images/4.png)
+![a](https://github.com/brdx88/Exploratory-Data-Analysis-Bank/blob/main/images/5.png)
+![a](https://github.com/brdx88/Exploratory-Data-Analysis-Bank/blob/main/images/6.png)
+![a](https://github.com/brdx88/Exploratory-Data-Analysis-Bank/blob/main/images/7.png)
+![a](https://github.com/brdx88/Exploratory-Data-Analysis-Bank/blob/main/images/8.png)
+  
+  
+
+
+
 ## Conclusion
 1. Ownership of credit cards does not affect customers moving from the bank.
     - As many as 80% of customers who have credit cards are customers who have not moved
@@ -37,3 +57,6 @@ The following is the result of Exploratory Data Analysis by Brian Ivan Cusuanto 
 2. A customer who has moved to another bank is a customer whose credit score is indeed low, which means that it is not feasible to provide more services or facilities for the customer. How can customers be provided with more service if the loan responsibility is still low? So, it's normal for customers to move.
 3. Customers who move to another bank are customers who have a large number of products offered by the bank. It can be said that the customer just wants to know the services and facilities that the bank has, and then the customer tends to review and compare with other banks, which bank product is right for him. Like today, these customers are just * reviewers * who are not serious about being loyal but only serious about finding out the advantages and disadvantages of each bank.
 4. The bank is good, because of all the factors that customers moving to another bank are not significant and not principles, such as low credit responsibility or simply having various bank products.
+
+
+#### For more insights, please visit the notebook [here](https://github.com/brdx88/Exploratory-Data-Analysis-Bank/blob/main/bank_EDA_brian.ipynb).
